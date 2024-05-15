@@ -1,5 +1,5 @@
 # Finance calculators.
-This repository contains a Python program, finance_calculators.py, designed to assist users with financial calculations related to investments and home loan repayments. Developed as a Capstone Project for a small financial company, this program offers two main functionalities: investment calculation and bond repayment calculation.
+This repository contains a program designed to assist users with financial calculations related to investments and home loan repayments. Developed as a Capstone Project for a small financial company, this program offers two main functionalities: investment calculation and bond repayment calculation.
 
 Features:
 # Investment Calculator:
